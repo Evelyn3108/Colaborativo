@@ -6,6 +6,7 @@
     <title>registro</title>
 </head>
 <body>
+    <h1>Registro</h1>
     <main>
         <form class="" action="" method="post">
             <label for="username">Username:</label>
