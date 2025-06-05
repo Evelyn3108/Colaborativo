@@ -6,6 +6,6 @@
     <title>contacto</title>
 </head>
 <body>
-    
+    <h1>CONTACTO</h1>
 </body>
 </html>
